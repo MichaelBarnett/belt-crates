@@ -1,0 +1,10 @@
+{
+  "name": "belt_crates",
+  "version": "1.0.0",
+  "title": "Belt Crates",
+  "author": "Michael Michael",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.0"],
+  "description": "The cursed knowledge of putting cars on belts is wild, so I made a mod to normalize the idea of having storage boxes on belts - particularly useful on space platforms!",
+  "quality_required": false
+}

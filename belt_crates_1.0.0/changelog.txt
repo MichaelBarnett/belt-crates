@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-06-27
+  Features:
+    - Added Belt-Crates, an on belt storage solution, which behaves like a car, but designed to be used as additional belt storage. Unlocked after Logistics, and placeable on space platforms.
